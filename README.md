@@ -107,6 +107,5 @@ Defines quit option
 * Place
 * Review
 
-# Authors
-Pascal Mugisha - p.mugisha@alustudent.com
-Oden Emmanuel - e.oden@alustudent.com
+# Author
+Ange Muhawenimana  a.muhawenim@alustudent.com
